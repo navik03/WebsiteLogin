@@ -16,3 +16,7 @@
 - Schedule the task according to required time
 
 # Happy Coding!!!!!!!
+
+## Code maintained By:
+
+` [Navik Rana](https://github.com/navik03) ` and ` [Kanishk Gupta](https://github.com/gkanishk) `
