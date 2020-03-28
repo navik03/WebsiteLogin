@@ -11,7 +11,7 @@
 - To automate we need to create a `bat` file to schedule
 - Create an empty file with `**.bat**` extension
 - Add inside bat file:
-    - "pythen.exe path" "Websitelogin.py path" pause
+    - Add "pythen.exe path" "Websitelogin.py path" pause
 - Refer [this](https://towardsdatascience.com/automate-your-python-scripts-with-task-scheduler-661d0a40b279) link for more info how to schedule using **Task Scheduler**
 - Schedule the task according to required time
 
