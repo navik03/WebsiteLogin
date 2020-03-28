@@ -9,8 +9,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-usernameStr = '17BCS4023'
-passwordStr = 'N@vikR@na123'
+usernameStr = 'user name'
+passwordStr = 'password'
 
 browser = webdriver.Chrome()
 browser.get(('https://uims.cuchd.in/uims/'))
